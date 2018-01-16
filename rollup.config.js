@@ -12,7 +12,7 @@ export default {
   // dest: 'dist/bundle.js',
   output: {
     file: 'dist/bundle.js',
-    format: 'cjs'
+    format: 'umd'
   },
   name: 'htmlparser2',
   plugins: [
